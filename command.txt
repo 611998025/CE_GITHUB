@@ -1,0 +1,6 @@
+echo "# CE_GITHUB" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lkjhui1151/CE_GITHUB.git
+git push -u origin master
